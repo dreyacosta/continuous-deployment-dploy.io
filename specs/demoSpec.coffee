@@ -2,5 +2,5 @@ expect = require('chai').expect
 
 describe "CI", ->
   it "should pass", ->
-    a = 2
+    a = 1
     expect(a).to.equal 2
