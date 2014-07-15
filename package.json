@@ -1,21 +1,21 @@
 {
-  "name": "travisci",
-  "version": "0.0.0",
-  "description": "Hello",
+  "name": "continuous-deployment-dploy.io",
+  "version": "0.0.1",
+  "description": "Continuous deployment with GitHub, Bitbucket, DigitalOcean and dploy.io",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dreyacosta/travisci.git"
+    "url": "git://github.com/dreyacosta/continuous-deployment-dploy.io.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "@dreyacosta",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dreyacosta/travisci/issues"
+    "url": "https://github.com/dreyacosta/continuous-deployment-dploy.io/issues"
   },
-  "homepage": "https://github.com/dreyacosta/travisci",
+  "homepage": "https://github.com/dreyacosta/continuous-deployment-dploy.io",
   "dependencies": {
     "coffee-script": "^1.7.1",
     "express": "^4.5.1"
